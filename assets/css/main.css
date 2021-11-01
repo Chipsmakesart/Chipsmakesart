@@ -179,7 +179,7 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.25;
 		margin: 0 0 0.5em 0;
-		color: #555;
+		color: #EFEFEF;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -430,7 +430,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #555;
+			color: #EFEFEF;
 			background: #1D1D1D;
 		}
 
@@ -552,7 +552,7 @@ input, select, textarea {
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background-color: #555;
-			border-color: #555;
+			border-color: #EFEFEF;
 			color: #fff;
 			content: '\f00c';
 		}
