@@ -1207,7 +1207,7 @@ input, select, textarea {
 			}
 
 				#viewer .slide .caption h2, #viewer .slide .caption h3, #viewer .slide .caption h4, #viewer .slide .caption h5, #viewer .slide .caption h6 {
-					color: rgb(255, 255, 255);
+					color: #1d1d1d;
 				}
 
 			#viewer .slide .image {
