@@ -431,7 +431,7 @@ input, select, textarea {
 
 		select option {
 			color: #555;
-			background: rgb(255, 255, 255);
+			background: rgb(65, 65, 65);
 		}
 
 		select:focus::-ms-value {
@@ -888,7 +888,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#main {
-				background: rgba(255, 255, 255, 0.925);
+				background: rgba(65, 65, 65, 0.925);
 			}
 
 				#main .toggle {
