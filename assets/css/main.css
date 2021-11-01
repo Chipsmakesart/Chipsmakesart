@@ -108,7 +108,7 @@ input, select, textarea {
 	}
 
 	html, body {
-		background-color: #272727;
+		background-color: #ffffff;
 		overflow: hidden;
 	}
 
@@ -179,7 +179,7 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.25;
 		margin: 0 0 0.5em 0;
-		color: #EFEFEF;
+		color: #5f5f5f;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -837,7 +837,7 @@ input, select, textarea {
 		top: 0;
 		width: 22.5em;
 		height: 100%;
-		background: #1D1D1D;
+		background: #ffffff;
 		outline: 0;
 		overflow-x: hidden;
 		overflow-y: auto;
