@@ -108,7 +108,7 @@ input, select, textarea {
 	}
 
 	html, body {
-		background-color: #101010;
+		background-color: #ffffff;
 		overflow: hidden;
 	}
 
@@ -431,7 +431,7 @@ input, select, textarea {
 
 		select option {
 			color: #555;
-			background: rgb(54, 54, 54);
+			background: rgb(255, 255, 255);
 		}
 
 		select:focus::-ms-value {
